@@ -1,2 +1,2 @@
 # TerraOptimized
-Game and Game engine writen in Rust
+Game and Game engine written in Rust
