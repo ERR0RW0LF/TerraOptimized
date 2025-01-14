@@ -1,0 +1,1 @@
+Climate is the long-term [[Weather]] pattern in a region, typically averaged over 30 years.w

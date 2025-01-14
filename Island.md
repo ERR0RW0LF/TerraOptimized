@@ -1,0 +1,1 @@
+An island or isle is a piece of [[Land]], distinct from a [[Continent]], completely surrounded by [[Water]].

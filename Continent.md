@@ -1,0 +1,1 @@
+A continent is any of several large geographical regions.
