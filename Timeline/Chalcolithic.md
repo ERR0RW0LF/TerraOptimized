@@ -1,0 +1,5 @@
+- c. 3,700 BCE – Pictographic proto-writing, known as proto-cuneiform, appears in Sumer, and records begin to be kept. According to the majority of specialists, the first Mesopotamian writing (actually still pictographic proto-writing at this stage) was a tool for record-keeping that had little connection to the spoken language.
+- c. 3,300 BCE – Approximate date of death of "Ötzi the Iceman", found preserved in ice in the Ötztal Alps in 1991. A copper-bladed axe, which is a characteristic technology of this era, was found with the corpse.
+- c. 3,100 BCE – Skara Brae is constructed. This stone-built village consisted of ten clustered houses with stone hearths, beds, cupboards, and an ancient sewer system. This village occupied for 600 years before being abandoned in c. 2,500 BCE.
+- c. 3,000 BCE – Stonehenge construction begins. In its first version, it consisted of a circular ditch and bank, with 56 wooden posts.
+- c. 3,000 BCE – The Yamnaya expansions from the Pontic–Caspian steppe into Europe and Asia. These migrations are thought to have spread Yamnaya Steppe pastoralist ancestry and Indo-European languages across large parts of Eurasia.
