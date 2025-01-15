@@ -1,2 +1,6 @@
 [[Continent]]
 [[Island]]
+
+[[Mountain]]
+[[Hill]]
+
