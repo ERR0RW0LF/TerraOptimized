@@ -31,3 +31,22 @@ Upper Paleolithic
 - c. 23,000 BP / 21,000 BCE – Small-scale trial cultivation of plants in Ohalo II, a hunter-gatherers' sedentary camp on the shore of the Sea of Galilee, Israel.
 - c. 16,000 BP / 14,000 BCE – Wisent (bison) sculpted in clay deep inside the cave now known as Le Tuc d'Audoubert in the French Pyrenees near what is now the border of Spain.
 - c. 14,800 BP / 12,800 BCE – The Humid Period begins in North Africa. The region that would later become the Sahara is wet and fertile, and the aquifers are full.
+
+Mesolithic/Epipaleolithic
+
+- c. 12,500 to 9,500 BCE – Natufian culture: a culture of sedentary hunter-gatherers who may have cultivated rye in the Levant (Eastern Mediterranean)
+
+Neolithic
+
+- c. 9,400–9,200 BCE – Figs of a parthenocarpic (and therefore sterile) type are cultivated in the early Neolithic village Gilgal I (in the Jordan Valley, 13 km north of Jericho). The find predates the domestication of wheat, barley, and legumes, and may thus be the first known instance of agriculture.
+- c. 9,000 BCE – Circles of T-shaped stone pillars erected at Göbekli Tepe in the Southeastern Anatolia Region of Turkey during pre-pottery Neolithic A (PPNA) period. As yet unexcavated structures at the site are thought to date back to the epipaleolithic.
+- c. 8,000 BCE / 7000 BCE – In northern Mesopotamia, now northern Iraq, cultivation of barley and wheat begins. At first they are used for beer, gruel, and soup, eventually for bread. In early agriculture at this time the planting stick is used, but it is replaced by a primitive plough in subsequent centuries. Around this time, a round stone tower, now preserved at about 8.5 meters high and 8.5 meters in diameter is built in Jericho.
+- c. 4,700 BCE - {circa|4,500 BCE}} In Central Europe Neolithic circulars emerge
+
+Chalcolithic
+
+- c. 3,700 BCE – Pictographic proto-writing, known as proto-cuneiform, appears in Sumer, and records begin to be kept. According to the majority of specialists, the first Mesopotamian writing (actually still pictographic proto-writing at this stage) was a tool for record-keeping that had little connection to the spoken language.
+- c. 3,300 BCE – Approximate date of death of "Ötzi the Iceman", found preserved in ice in the Ötztal Alps in 1991. A copper-bladed axe, which is a characteristic technology of this era, was found with the corpse.
+- c. 3,100 BCE – Skara Brae is constructed. This stone-built village consisted of ten clustered houses with stone hearths, beds, cupboards, and an ancient sewer system. This village occupied for 600 years before being abandoned in c. 2,500 BCE.
+- c. 3,000 BCE – Stonehenge construction begins. In its first version, it consisted of a circular ditch and bank, with 56 wooden posts.
+- c. 3,000 BCE – The Yamnaya expansions from the Pontic–Caspian steppe into Europe and Asia. These migrations are thought to have spread Yamnaya Steppe pastoralist ancestry and Indo-European languages across large parts of Eurasia.
