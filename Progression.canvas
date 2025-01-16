@@ -7,12 +7,16 @@
 		{"id":"ce5d55e70e1dff7d","type":"file","file":"Game.md","x":0,"y":-280,"width":400,"height":400},
 		{"id":"cd1b95633dfd086a","type":"file","file":"Progression.md","x":120,"y":240,"width":400,"height":400},
 		{"id":"42e8bf02c13035e0","type":"file","file":"Timeline/Timeline.md","x":120,"y":720,"width":400,"height":1320},
-		{"id":"639d5ff8c4a8547e","x":540,"y":1180,"width":400,"height":400,"type":"file","file":"Timeline/Lower Paleolithic.md"},
-		{"id":"52a385fe0728c493","x":960,"y":1050,"width":400,"height":660,"type":"file","file":"Timeline/Middle Paleolithic.md"},
-		{"id":"7087aeb892dcf57f","x":1380,"y":610,"width":400,"height":1540,"type":"file","file":"Timeline/Upper Paleolithic.md"},
-		{"id":"e0fecaf01190bd1c","x":1800,"y":1180,"width":400,"height":400,"type":"file","file":"Timeline/Mesolithic or Epipaleolithic.md"},
-		{"id":"52d3dde5170d1f24","x":2640,"y":950,"width":400,"height":860,"type":"file","file":"Timeline/Chalcolithic.md"},
-		{"id":"fae530a30a095ec7","x":2220,"y":960,"width":400,"height":840,"type":"file","file":"Timeline/Neolithic.md"}
+		{"id":"639d5ff8c4a8547e","type":"file","file":"Timeline/Lower Paleolithic.md","x":540,"y":1180,"width":400,"height":400},
+		{"id":"52a385fe0728c493","type":"file","file":"Timeline/Middle Paleolithic.md","x":960,"y":1050,"width":400,"height":660},
+		{"id":"7087aeb892dcf57f","type":"file","file":"Timeline/Upper Paleolithic.md","x":1380,"y":610,"width":400,"height":1540},
+		{"id":"e0fecaf01190bd1c","type":"file","file":"Timeline/Mesolithic or Epipaleolithic.md","x":1800,"y":1180,"width":400,"height":400},
+		{"id":"52d3dde5170d1f24","type":"file","file":"Timeline/Chalcolithic.md","x":2640,"y":950,"width":400,"height":860},
+		{"id":"fae530a30a095ec7","type":"file","file":"Timeline/Neolithic.md","x":2220,"y":960,"width":400,"height":840},
+		{"id":"0feacd73ebba2994","x":580,"y":410,"width":250,"height":60,"type":"text","text":" Nothing"},
+		{"id":"dc82b07cc8cfbcda","x":860,"y":410,"width":250,"height":60,"type":"text","text":"Stone"},
+		{"id":"80c7f6dd33930e67","x":1140,"y":410,"width":250,"height":60,"type":"text","text":"Stone Tools"},
+		{"id":"9ffeb1978a8ada16","x":1420,"y":410,"width":250,"height":60,"type":"text","text":"Copper"}
 	],
 	"edges":[
 		{"id":"aaa9600a116cbc9a","fromNode":"c06911e54d3984b0","fromSide":"right","toNode":"ce5d55e70e1dff7d","toSide":"left"},
@@ -27,6 +31,10 @@
 		{"id":"9a555e3b9e083cd4","fromNode":"52a385fe0728c493","fromSide":"right","toNode":"7087aeb892dcf57f","toSide":"left"},
 		{"id":"431ed3050a528dcd","fromNode":"7087aeb892dcf57f","fromSide":"right","toNode":"e0fecaf01190bd1c","toSide":"left"},
 		{"id":"75af26a129f88aa7","fromNode":"e0fecaf01190bd1c","fromSide":"right","toNode":"fae530a30a095ec7","toSide":"left"},
-		{"id":"0ae73f4ee084f42c","fromNode":"fae530a30a095ec7","fromSide":"right","toNode":"52d3dde5170d1f24","toSide":"left"}
+		{"id":"0ae73f4ee084f42c","fromNode":"fae530a30a095ec7","fromSide":"right","toNode":"52d3dde5170d1f24","toSide":"left"},
+		{"id":"847571f5164fe693","fromNode":"cd1b95633dfd086a","fromSide":"right","toNode":"0feacd73ebba2994","toSide":"left"},
+		{"id":"bfbf686efbd903d2","fromNode":"0feacd73ebba2994","fromSide":"right","toNode":"dc82b07cc8cfbcda","toSide":"left"},
+		{"id":"c194a5c81d8f06a2","fromNode":"dc82b07cc8cfbcda","fromSide":"right","toNode":"80c7f6dd33930e67","toSide":"left"},
+		{"id":"acaf965585f3ca2a","fromNode":"80c7f6dd33930e67","fromSide":"right","toNode":"9ffeb1978a8ada16","toSide":"left"}
 	]
 }
