@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Timeline  ",
@@ -55,11 +55,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 13.5416666666667,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.4019828977761313,
-  "close": false
+  "scale": 1.4019828977761397,
+  "close": true
 }
