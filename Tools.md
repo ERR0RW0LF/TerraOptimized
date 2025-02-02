@@ -6,4 +6,4 @@
 | Coding       | Vs Code / RustRover |
 | Textures     | [[Aseprite]]        |
 | Models       | [[Blockbench]]      |
-| Graphics API |                     |
+
