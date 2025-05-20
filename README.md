@@ -1,5 +1,5 @@
-# [[TerraOptimized]]
-Game and Game engine written in Rust
+# TerraOptimized
+Game and Game engine written in C++
 
 
-# [[Tools]]
+# Tools
