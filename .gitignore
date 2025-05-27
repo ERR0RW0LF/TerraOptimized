@@ -22,7 +22,7 @@ Cargo.lock
 
 # Obsidian
 .obsidian/*
-
+.obsidian/graph.json
 
 # C++
 # Prerequisites
