@@ -20,39 +20,40 @@ Custom Voxel Engine
 Crafting 
 Difficulties (AI generated need to decide later):
 
-	Lower Difficulty Levels (Less Realistic):
+Lower Difficulty Levels (Less Realistic):
 
-		Relaxed: Focuses on enjoyment without harsh realism.
-	    Casual: Offers a forgiving experience with guidance.
-	    Assisted: Provides hints and simplifies mechanics.
-	    Guided: Clearly explains game systems and consequences.
-	    Simplified: Removes or automates complex elements.
-	    Forgiving: Tolerates mistakes and offers second chances.
+* Relaxed: Focuses on enjoyment without harsh realism.
+* Casual: Offers a forgiving experience with guidance.
+* Assisted: Provides hints and simplifies mechanics.
+* Guided: Clearly explains game systems and consequences.
+* Simplified: Removes or automates complex elements.
+* Forgiving: Tolerates mistakes and offers second chances.
 
-	Mid-Range Difficulty Levels (Increasing Realism):
+Mid-Range Difficulty Levels (Increasing Realism):
 
-	    Standard: A balanced experience with some realistic elements.
-	    Normal: The intended way to experience the core mechanics.
-	    Challenging: Introduces more realistic consequences and fewer aids.
-	    Immersive: Aims for a believable experience with less hand-holding.
-	    Authentic: Starts to emphasize realistic systems and limitations.
+* Standard: A balanced experience with some realistic elements.
+* Normal: The intended way to experience the core mechanics.
+* Challenging: Introduces more realistic consequences and fewer aids.
+* Immersive: Aims for a believable experience with less hand-holding.
+* Authentic: Starts to emphasize realistic systems and limitations.
 
-	Higher Difficulty Levels (More Realistic):
+Higher Difficulty Levels (More Realistic):
 
-	    Realistic: Emphasizes true-to-life mechanics and consequences.
-	    Simulation: Focuses on accurately replicating real-world systems.
-	    Survival: Highlights the challenges of realistic resource management.
-	    Hardcore: Offers a brutal and unforgivingly realistic experience.
-	    Grounded: Removes abstractions and forces players to engage with raw realism.
-	    Uncompromising: Makes no concessions to ease of play in favor of realism.
+* Realistic: Emphasizes true-to-life mechanics and consequences.
+* Simulation: Focuses on accurately replicating real-world systems.
+* Survival: Highlights the challenges of realistic resource management.
+* Hardcore: Offers a brutal and unforgivingly realistic experience.
+* Grounded: Removes abstractions and forces players to engage with raw realism.
+* Uncompromising: Makes no concessions to ease of play in favor of realism.
 
-	Extreme Difficulty Levels (Beyond Realistic):
+Extreme Difficulty Levels (Beyond Realistic):
 
-	    Overkill: Exaggerates realistic challenges to an extreme degree.
-	    Grim: A bleak and punishingly realistic experience.
-	    Ironclad: Imposes severe and realistic limitations.
-	    Verisimilitude: Strives for the highest possible level of realism, potentially beyond enjoyable gameplay for some.
-	    Meticulous: Requires careful and realistic planning and execution.
+* Overkill: Exaggerates realistic challenges to an extreme degree.
+* Grim: A bleak and punishingly realistic experience.
+* Ironclad: Imposes severe and realistic limitations.
+* Verisimilitude: Strives for the highest possible level of realism, potentially beyond enjoyable gameplay for some.
+* Meticulous: Requires careful and realistic planning and execution.
+
 Threats for the player
 
 What I want to avoid:
