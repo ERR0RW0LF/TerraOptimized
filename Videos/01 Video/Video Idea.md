@@ -28,13 +28,14 @@ How my game is to differentiate itself (more realism)
 
 <summary>Crafting</summary>
 
-Realism 
-At the start only having things available that are laying around
-No Crafting recipes at the start (just figure it out)
-Crafting recipes need to be written down by the player in a Memory UI that gets cleared every time they die (depends on difficulty)
-Proficiency in crafting (allows players to later specialize on servers)
-Difficulty of crafting different things, so some things have a lower success rate if you aren’t good at it.
-Differentiation between ways of crafting so if you’re good in one doesn’t mean you’re good in everything else.
+### Realism
+
+* At the start only having things available that are laying around
+* No Crafting recipes at the start (just figure it out)
+* Crafting recipes need to be written down by the player in a Memory UI that gets cleared every time they die (depends on difficulty)
+* Proficiency in crafting (allows players to later specialize on servers)
+* Difficulty of crafting different things, so some things have a lower success rate if you aren’t good at it.
+* Differentiation between ways of crafting so if you’re good in one doesn’t mean you’re good in everything else.
 
 </details>
 
