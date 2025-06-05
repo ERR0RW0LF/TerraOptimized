@@ -29,6 +29,8 @@ Cargo.lock
 .obsidian/
 .obsidian/graph.json
 
+# Visual Studio
+.vs/
 
 *.ilk
 
